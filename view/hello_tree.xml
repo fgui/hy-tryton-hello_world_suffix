@@ -1,0 +1,5 @@
+<data>
+    <xpath expr="/tree/field[@name='surname']" position="after">
+        <field name="suffix"/>
+    </xpath>
+</data>
